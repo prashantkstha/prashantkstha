@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @prashantkstha
+- 👋 Hi, I’m @prashantkstha 
 - 👀 I’m interested in Networking
 - 🌱 I’m currently learning Linux
 - 💞️ I’m looking to collaborate on AWS
-- 📫 Reach me on Instagram
+- 📫 Located at Kathmandu, Nepal
 
 <!---
 prashantkstha/prashantkstha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
